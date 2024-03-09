@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pawan Saxena
 - 💻 Currently, working as a Senior Analyst-Data Science @ Tiger Analytics
-- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
+- 👀 Strong Understanding and experience in Data Science, Machine Learning and Artificial Intelligence
 - 🌱 Currently Exploring topics related to Data Engineering and Generative AI
 - 💞️ I’m looking to collaborate on projects related to Computer Vision
 - 📫 How to reach me at saxenapawan224@gmail.com
