@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Pawan Saxena - AI, Computer Vision and Robotics</title>
+  <desc id="desc">A dark blue profile banner with a stylized vision and 3D reconstruction motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071525"/>
+      <stop offset="0.55" stop-color="#0c2942"/>
+      <stop offset="1" stop-color="#0b4c5f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+  <g opacity="0.16" stroke="#7dd3fc" fill="none">
+    <path d="M0 70h1200M0 140h1200M0 210h1200M0 280h1200"/>
+    <path d="M80 0v330M160 0v330M240 0v330M320 0v330M400 0v330M480 0v330M560 0v330M640 0v330M720 0v330M800 0v330M880 0v330M960 0v330M1040 0v330M1120 0v330"/>
+  </g>
+  <g transform="translate(862 44)" fill="none">
+    <path d="M18 122c55-91 151-91 206 0-55 91-151 91-206 0Z" stroke="#67e8f9" stroke-width="5" opacity="0.92"/>
+    <circle cx="121" cy="122" r="40" stroke="url(#accent)" stroke-width="6" filter="url(#glow)"/>
+    <circle cx="121" cy="122" r="12" fill="#e0f2fe"/>
+    <g stroke="#38bdf8" stroke-width="2" opacity="0.8">
+      <path d="M121 35v47M121 162v47M34 122h47M161 122h47"/>
+      <path d="M60 61l34 34M148 149l34 34M182 61l-34 34M94 149l-34 34"/>
+    </g>
+    <g fill="#a5f3fc">
+      <circle cx="18" cy="122" r="4"/><circle cx="224" cy="122" r="4"/><circle cx="121" cy="20" r="4"/><circle cx="121" cy="224" r="4"/>
+      <circle cx="48" cy="52" r="3"/><circle cx="194" cy="52" r="3"/><circle cx="48" cy="192" r="3"/><circle cx="194" cy="192" r="3"/>
+    </g>
+  </g>
+  <rect x="72" y="71" width="88" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="72" y="135" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">Pawan Saxena</text>
+  <text x="74" y="186" fill="#a5f3fc" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="1">AI · COMPUTER VISION · ROBOTICS</text>
+  <text x="74" y="231" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="20">Multimodal AI · Video Generation · 3D Reconstruction</text>
+  <g transform="translate(74 264)">
+    <circle cx="7" cy="7" r="7" fill="#4ade80"/>
+    <text x="25" y="14" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="18">Open to working-student roles and internships</text>
+  </g>
+</svg>
