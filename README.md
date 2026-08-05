@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Saxena224pawan"><img src="https://img.shields.io/badge/GitHub-%40Saxena224pawan-181717?style=flat-square&logo=github" alt="Pawan on GitHub" /></a>
-  <a href="https://pawansaxena.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-pawansaxena.netlify.app-2563EB?style=flat-square&logo=netlify&logoColor=white" alt="Pawan's portfolio" /></a>
+  <a href="https://saxena224pawan.github.io/"><img src="https://img.shields.io/badge/Portfolio-pawansaxena.netlify.app-2563EB?style=flat-square&logo=netlify&logoColor=white" alt="Pawan's portfolio" /></a>
   <a href="mailto:saxenapawan224@gmail.com"><img src="https://img.shields.io/badge/Email-saxenapawan224%40gmail.com-0B7285?style=flat-square&logo=gmail&logoColor=white" alt="Email Pawan" /></a>
   <img src="https://img.shields.io/badge/Based_in-Nuremberg%2C_Germany-334155?style=flat-square&logo=googlemaps&logoColor=white" alt="Nuremberg, Germany" />
   <img src="https://img.shields.io/badge/Open_to-Working_Student_%26_Internships-16A34A?style=flat-square" alt="Open to opportunities" />
@@ -48,6 +48,6 @@ I am interested in improving motion-aware validation for generated video, robust
 <p align="center">
   <strong>Interested in collaborating or discussing an opportunity?</strong><br />
   <a href="mailto:saxenapawan224@gmail.com">Email</a> ·
-  <a href="https://pawansaxena.netlify.app/">Portfolio</a> ·
+  <a href="https://saxena224pawan.github.io/">Portfolio</a> ·
   <a href="https://github.com/Saxena224pawan">GitHub</a>
 </p>
